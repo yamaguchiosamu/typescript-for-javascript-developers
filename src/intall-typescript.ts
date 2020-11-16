@@ -1,2 +1,2 @@
 let message: string = 'nino';
-console.log({message});
+console.log({ message });
